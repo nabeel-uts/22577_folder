@@ -1,5 +1,5 @@
 # My Name
 
-## Nabeel
+## Nabeel Siddiqui
 
 * dot point 
